@@ -90,7 +90,7 @@ function displayCart(){
     cart.forEach(product => {
 
         // 3. Create a div
-        const card = document.createElement('div');!
+        const card = document.createElement('div');
 
         // 4. Create a paragraph
         const para = document.createElement('p');
